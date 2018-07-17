@@ -1,0 +1,2 @@
+# dotmarks.net
+Serveless bookmarks
